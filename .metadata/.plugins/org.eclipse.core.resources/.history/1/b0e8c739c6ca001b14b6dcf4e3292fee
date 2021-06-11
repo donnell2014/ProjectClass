@@ -1,0 +1,8 @@
+package ProjectPackage;
+
+public class Project {
+
+	public static void greet() {
+		System.out.println(yuuuh);
+	}
+}
